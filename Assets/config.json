@@ -1,0 +1,24 @@
+{
+	"Configs": [
+		
+			
+		
+		{
+			"TeamAProperties":{
+				"HP": 100,
+				"Attack": 30,
+				"AttackSpeed": 2,
+				"AttackRange": 1.5,
+				"MovementSpeed": 3
+			},
+			"TeamBProperties":{
+				"HP": 100,
+				"Attack": 12,
+				"AttackSpeed": 7,
+				"AttackRange": 4,
+				"MovementSpeed": 1
+			},
+			"Units":[1,2,3,6,7,8,9,10,11,12,13,16,17,18]
+		}
+	]
+}
